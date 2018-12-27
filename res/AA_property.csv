@@ -1,0 +1,21 @@
+Code,_Side Chain Polarity,Side Chain Polarity,_Side Chain Acidity,Side Chain Acidity,Isoelectric Point
+A,Nonpolar (hydrophobic),0,Neutral,0,6
+R,Polar (soluble),1,Basic (strongly),3,11.15
+N,Polar,1,Neutral,0,5.41
+D,Polar,1,Acidic,2,2.77
+C,Polar,1,Neutral,0,5.02
+E,Polar,1,Acidic,2,3.22
+Q,Polar,1,Neutral,0,5.65
+G,Nonpolar,0,Neutral,0,5.97
+H,Polar,1,Basic (weakly),-1,7.47
+I,Nonpolar,0,Neutral,0,5.94
+L,Nonpolar,0,Neutral,0,5.98
+K,Polar,1,Basic,-2,9.59
+M,Nonpolar,0,Neutral,0,5.74
+F,"Nonpolar, aromatic",0,Neutral,0,5.48
+P,Nonpolar,0,Neutral,0,6.3
+S,Polar,1,Neutral,0,5.68
+T,Polar,1,Neutral,0,5.64
+W,"Nonpolar, aromatic",0,Neutral,0,5.89
+Y,"Polar, aromatic",1,Neutral,0,5.66
+V,Nonpolar,0,Neutral,0,5.96
