@@ -1,0 +1,157 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en-US">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html;charset=iso-8859-1"><!-- automatically added by Apache -->
+    <link rel="icon" href="https://web.expasy.org/favicon.ico" ><!-- automatically added by Apache -->
+    <link rel="stylesheet" href="/css/sib_css/sib.css" type="text/css" media="screen" charset="utf-8" >
+	   <link rel="stylesheet" href="/css/sib_css/sib_print.css" type="text/css" media="print" charset="utf-8" >
+           <!--[if lte IE 6]>
+	   <link rel="stylesheet" href="/css/sib_css/sib_ie6.css" type="text/css" media="screen" title="" charset="utf-8">
+           <![endif]-->
+           <link rel="stylesheet" href="/css/base.css" type="text/css"><!-- automatically added by Apache -->
+<title>ExPASy ProtParam tool</title>
+  </head>
+  <body>
+<!-- ********************************************************************************************** -->
+<!-- START OF HEADER information on top of the page -->
+<div id='sib_top'><a name='TOP'></a></div>
+<div id='sib_container'>
+
+<!-- TODO: Change id to "sib_header" or "sib_header_small" -->
+<div id='sib_header_small'>
+
+<!-- SIB-ExPASy -->
+<div id="sib_expasy_logo">
+<a href="https://sib.swiss/" id="sib_link" title="SIB Swiss Institute of Bioinformatics"></a>
+<a href="https://www.expasy.org" id="expasy_link" title="ExPASy - SIB Bioinformatics Resource Portal"></a>
+</div>
+<!-- SIB-ExPASy END -->
+
+<div class='sib_title_no_logo'>
+<h1><a href='https://web.expasy.org/protparam'>ProtParam</a></h1>
+</div>
+
+<! -- Additionnal resource header -->
+<div id='resource_header'></div>
+
+<div id='sib_header_nav'>
+<a href="https://web.expasy.org/protparam" title="Home page">Home</a>&nbsp;|&nbsp;<a style="font-weight: bold; color: rgb(204,0,0) !important;" href="/contact" title="Contact">Contact</a></div>
+</div>
+<!-- END OF HEADER -->
+<!-- ********************************************************************************************** -->
+<div id='sib_body'>
+<!-- automatically added by Apache -->
+<h1>ProtParam</h1>
+<h2>
+User-provided sequence:</h2>
+
+<pre>        1<u>0</u>         2<u>0</u>         3<u>0</u>         4<u>0</u>         5<u>0</u>         6<u>0</u> <br>MNESKPGDSQ NLACVFCRKH DDCPNKYGEK KTKEKWNLTV HYYCLLMSSG IWQRGKEEEG <br><br>        7<u>0</u>         8<u>0</u>         9<u>0</u>        10<u>0</u>        11<u>0</u>        12<u>0</u> <br>VYGFLIEDIR KEVNRASKLK CCVCKKNGAS IGCVAPRCKR SYHFPCGLQR ECIFQFTGNF <br><br>       13<u>0</u>        14<u>0</u>        15<u>0</u>        16<u>0</u>        17<u>0</u>        18<u>0</u> <br>ASFCWDHRPV QIITSNNYRE SLPCTICLEF IEPIPSYNIL RSPCCKNAWF HRDCLQVQAI <br><br>       19<u>0</u>        20<u>0</u>        21<u>0</u>        22<u>0</u>        23<u>0</u>        24<u>0</u> <br>NAGVFFFRCT ICNNSDIFQK EMLRMGIHIP EKDASWELEE NAYQELLQHY ERCDVRRCRC <br><br>       25<u>0</u>        26<u>0</u>        27<u>0</u>        28<u>0</u>        29<u>0</u>        30<u>0</u> <br>KEGRDYNAPD SKWEIKRCQC CGSSGTHLAC SSLRSWEQNW ECLECRGIIY NSGEFQKAKK <br><br>       31<u>0</u>        32<u>0</u>        33<u>0</u>        34<u>0</u>        35<u>0</u>        36<u>0</u> <br>HVLPNSNNVG ITDCLLEESS PKLPRQSPGS QSKDLLRQGS KFRRNVSTLL IELGFQIKKK <br><br>       37<u>0</u>        38<u>0</u>        39<u>0</u>        40<u>0</u>        41<u>0</u>        42<u>0</u> <br>TKRLYINKAN IWNSALDAFR NRNFNPSYAI EVAYVIENDN FGSEHPGSKQ EFLSLLMQHL <br><br>       43<u>0</u>        44<u>0</u>        45<u>0</u>        46<u>0</u>        47<u>0</u>        48<u>0</u> <br>ENSSLFEGSL SKNLSLNSQA LKENLYYEAG KMLAISLVHG GPSPGFFSKT LFNCLVYGPE <br><br>       49<u>0</u>        50<u>0</u>        51<u>0</u>        52<u>0</u>        53<u>0</u>        54<u>0</u> <br>NTQPILDDVS DFDVAQIIIR INTATTVADL KSIINECYNY LELIGCLRLI TTLSDKYMLV <br><br>       55<u>0</u>        56<u>0</u>        57<u>0</u>        58<u>0</u>        59<u>0</u>        60<u>0</u> <br>KDILGYHVIQ RVHTPFESFK QGLKTLGVLE KIQAYPEAFC SILCHKPESL SAKILSELFT <br><br>       61<u>0</u>        62<u>0</u>        63<u>0</u>        64<u>0</u>        65<u>0</u>        66<u>0</u> <br>VHTLPDVKAL GFWNSYLQAV EDGKSTTTME DILIFATGCS SIPPAGFKPT PSIECLHVDF <br><br>       67<u>0</u>        68<u>0</u>        69<u>0</u>        70<u>0</u> <br>PVGNKCNNCL AIPITNTYKE FQENMDFTIR NTLRLEKEES SHYIGH <br><br></pre>
+<br/> <A HREF="/protparam/protpar-ref.html">References</A> and <A HREF="/protparam/protparam-doc.html">documentation</A> are available.
+<PRE><HR>
+<B>Number of amino acids:</B> 706
+
+<B>Molecular weight:</B> 80504.20
+
+<B>Theoretical pI:</B> 7.90
+
+<form method=POST action='/cgi-bin/protparam/export_protparam.pl'><B>Amino acid composition:</B>&nbsp;<input type='submit' value='CSV format'><br />Ala (A)  32	  4.5%
+<input type='hidden' name='A' value='A'><input type='hidden' name='total_A' value='32'><input type='hidden' name='percent_A' value='4.53257790368272'>Arg (R)  33	  4.7%
+<input type='hidden' name='R' value='R'><input type='hidden' name='total_R' value='33'><input type='hidden' name='percent_R' value='4.6742209631728'>Asn (N)  46	  6.5%
+<input type='hidden' name='N' value='N'><input type='hidden' name='total_N' value='46'><input type='hidden' name='percent_N' value='6.51558073654391'>Asp (D)  27	  3.8%
+<input type='hidden' name='D' value='D'><input type='hidden' name='total_D' value='27'><input type='hidden' name='percent_D' value='3.82436260623229'>Cys (C)  38	  5.4%
+<input type='hidden' name='C' value='C'><input type='hidden' name='total_C' value='38'><input type='hidden' name='percent_C' value='5.38243626062323'>Gln (Q)  27	  3.8%
+<input type='hidden' name='Q' value='Q'><input type='hidden' name='total_Q' value='27'><input type='hidden' name='percent_Q' value='3.82436260623229'>Glu (E)  52	  7.4%
+<input type='hidden' name='E' value='E'><input type='hidden' name='total_E' value='52'><input type='hidden' name='percent_E' value='7.36543909348442'>Gly (G)  39	  5.5%
+<input type='hidden' name='G' value='G'><input type='hidden' name='total_G' value='39'><input type='hidden' name='percent_G' value='5.52407932011331'>His (H)  19	  2.7%
+<input type='hidden' name='H' value='H'><input type='hidden' name='total_H' value='19'><input type='hidden' name='percent_H' value='2.69121813031161'>Ile (I)  49	  6.9%
+<input type='hidden' name='I' value='I'><input type='hidden' name='total_I' value='49'><input type='hidden' name='percent_I' value='6.94050991501416'>Leu (L)  67	  9.5%
+<input type='hidden' name='L' value='L'><input type='hidden' name='total_L' value='67'><input type='hidden' name='percent_L' value='9.49008498583569'>Lys (K)  50	  7.1%
+<input type='hidden' name='K' value='K'><input type='hidden' name='total_K' value='50'><input type='hidden' name='percent_K' value='7.08215297450425'>Met (M)   9	  1.3%
+<input type='hidden' name='M' value='M'><input type='hidden' name='total_M' value='9'><input type='hidden' name='percent_M' value='1.27478753541076'>Phe (F)  35	  5.0%
+<input type='hidden' name='F' value='F'><input type='hidden' name='total_F' value='35'><input type='hidden' name='percent_F' value='4.95750708215297'>Pro (P)  31	  4.4%
+<input type='hidden' name='P' value='P'><input type='hidden' name='total_P' value='31'><input type='hidden' name='percent_P' value='4.39093484419263'>Ser (S)  58	  8.2%
+<input type='hidden' name='S' value='S'><input type='hidden' name='total_S' value='58'><input type='hidden' name='percent_S' value='8.21529745042493'>Thr (T)  30	  4.2%
+<input type='hidden' name='T' value='T'><input type='hidden' name='total_T' value='30'><input type='hidden' name='percent_T' value='4.24929178470255'>Trp (W)  10	  1.4%
+<input type='hidden' name='W' value='W'><input type='hidden' name='total_W' value='10'><input type='hidden' name='percent_W' value='1.41643059490085'>Tyr (Y)  25	  3.5%
+<input type='hidden' name='Y' value='Y'><input type='hidden' name='total_Y' value='25'><input type='hidden' name='percent_Y' value='3.54107648725212'>Val (V)  29	  4.1%
+<input type='hidden' name='V' value='V'><input type='hidden' name='total_V' value='29'><input type='hidden' name='percent_V' value='4.10764872521247'>Pyl (O)   0	  0.0%
+<input type='hidden' name='O' value='O'><input type='hidden' name='total_O' value='0'><input type='hidden' name='percent_O' value='0'>Sec (U)   0	  0.0%
+<input type='hidden' name='U' value='U'><input type='hidden' name='total_U' value='0'><input type='hidden' name='percent_U' value='0'>
+ (B)   0	  0.0%
+<input type='hidden' name='B' value='B'><input type='hidden' name='total_B' value='0'><input type='hidden' name='percent_B' value='0'> (Z)   0	  0.0%
+<input type='hidden' name='Z' value='Z'><input type='hidden' name='total_Z' value='0'><input type='hidden' name='percent_Z' value='0'> (X)   0	  0.0%
+<input type='hidden' name='X' value='X'><input type='hidden' name='total_X' value='0'><input type='hidden' name='percent_X' value='0'></form>
+
+<B>Total number of negatively charged residues (Asp + Glu):</B> 79
+<B>Total number of positively charged residues (Arg + Lys):</B> 83
+
+<B>Atomic composition:</B>
+
+Carbon      C	      3572
+Hydrogen    H	      5564
+Nitrogen    N	       976
+Oxygen      O	      1051
+Sulfur      S	        47
+
+<B>Formula:</B> C<SUB>3572</SUB>H<SUB>5564</SUB>N<SUB>976</SUB>O<SUB>1051</SUB>S<SUB>47</SUB>
+<B>Total number of atoms:</B> 11210
+
+<B>Extinction coefficients:</B>
+
+Extinction coefficients are in units of  M<sup>-1</sup> cm<sup>-1</sup>, at 280 nm measured in water.
+
+Ext. coefficient    94625
+Abs 0.1% (=1 g/l)   1.175, assuming all pairs of Cys residues form cystines
+
+
+Ext. coefficient    92250
+Abs 0.1% (=1 g/l)   1.146, assuming all Cys residues are reduced
+
+<B>Estimated half-life:</B>
+
+The N-terminal of the sequence considered is M (Met).
+
+The estimated half-life is: 30 hours (mammalian reticulocytes, in vitro).
+                            >20 hours (yeast, in vivo).
+                            >10 hours (Escherichia coli, in vivo).
+
+
+<B>Instability index:</B>
+
+The instability index (II) is computed to be 53.32
+This classifies the protein as unstable.
+
+
+
+<B>Aliphatic index:</B> 80.52
+
+<B>Grand average of hydropathicity (GRAVY):</B> -0.348
+</PRE><!-- sib_body -->
+<br clear="left" />
+</div>
+<!-- ********************************************************************************************** -->
+<!-- START OF FOOTER information at the bottom of the page -->
+<div id = 'sib_footer'>			
+  <!-- This part of the footer is _left_ justified and should contain SIB on the very left -->	
+  <div id = 'sib_footer_content'> 
+    <a href = "https://sib.swiss/">SIB Swiss Institute of Bioinformatics</a>&nbsp;|&nbsp;<a href = "https://www.expasy.org/disclaimer.html">Disclaimer</a>
+
+	<!-- This part of the footer is _right_ justified -->
+	<div id = "sib_footer_right">	
+      <a href="#TOP" id = "sib_footer_gototop"><span style = "padding-left: 10px">Back to the Top</span></a>				
+    </div>
+  </div>
+</div>
+<!-- END OF FOOTER -->
+</div> <!-- sib_container -->
+<script async="async" src='https://www.google-analytics.com/analytics.js' type="text/javascript"></script>
+<script type="text/javascript"/>
+	window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+	ga('create', 'UA-23625305-1', 'auto');
+    ga('set', 'anonymizeIp', true);
+    ga('send', 'pageview');
+</script>
+<!-- automatically added by Apache -->
+
+    </body>
+</html>
